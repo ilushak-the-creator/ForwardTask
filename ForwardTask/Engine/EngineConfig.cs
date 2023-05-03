@@ -1,4 +1,6 @@
-﻿namespace ForwardTask.Engine_Config
+﻿using System.Collections.Generic;
+
+namespace ForwardTask.Engine_Config
 {
     public class EngineConfig
     {
